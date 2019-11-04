@@ -10,7 +10,7 @@ void quitButtonRect() {
 }
 
 void quitButtonSetup() {
-  quitButtonFont = createFont ("Harrington", 55); 
+  quitButtonFont = createFont ("Magneto Bold", 55); 
   quitButtonRect();
 }
 

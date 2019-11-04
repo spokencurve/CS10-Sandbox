@@ -5,7 +5,7 @@ PFont titleFont;
 println("Start of Console");
 String[] frontList = PFont.list();// Lists all fonts avalible on system
 printArray(frontList); // FOR LISTING ALL POSSIBLE FONTS
-titleFont = createFont ("Jokerman", 55); 
+titleFont = createFont ("Magneto Bold", 55); 
 color purple = #C703FF;
 
 rect(width*1/4, height*0, width*1/2, height*1/10);
